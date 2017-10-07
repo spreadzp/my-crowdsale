@@ -1,2 +1,2 @@
 # my-crowdsale
-Smart contracts for ico standard tokens
+Smart contracts for ico of standard tokens
